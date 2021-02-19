@@ -1,6 +1,6 @@
 # macbroapp
 
-A new Flutter application.
+a flutter project for a company to maintain the lists/records of project,client,payments and training students
 
 ## Getting Started
 
